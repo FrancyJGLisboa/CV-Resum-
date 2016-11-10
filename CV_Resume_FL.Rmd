@@ -1,0 +1,69 @@
+
+
+Francy JG Lisboa
+================
+
+-----------------   --------------------------------------
+                             Gregorio Ricci Curbarstro, 56
+                                               Rome, Italy
+                                          +39 328 236 1314
+                                      agrolisboa@gmail.com
+-----------------   --------------------------------------                                      
+
+Experience
+----------
+
+**_CONSULTANT, FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS (FAO) 
+ROME, ITALY_**
+
+2016 – Present 
+
+*	Analyze data using R for the environmental data team of the FAO statistics department 
+*	Aggregate, clean, and process data from multiple sources to produce standardized, internationally comparable data for inclusion in the FAOstat database
+*	Provide technical expertise on proper interpretation of soil and agri-environmental data, including indicators on fertilizers, land, and soil
+*	Compose metadata and calculations methodology for new agri-environmental indicators and update metadata and calculations methodology for existing indicators
+*	Propose meaningful new agri-environmental indicators to help decision-makers improve sustainability policies 
+*	Update new domains in FAOstat 
+
+
+**_INDEPENDENT CONSULTANT, JOINT PROJECT BETWEEN BRAZILIAN AGRICULTURAL RESEARCH CORPORATION (EMBRAPA) AND THE RURAL FEDERAL UNIVERSITY OF RIO DE JANEIRO (UFRRJ)
+RIO DE JANEIRO, BRAZIL_**
+
+2015-2016
+
+*	Provided technical expertise to scientific researchers at the Brazilian Agricultural Research Corporation (EMBRAPA) and the Rural Federal University of Rio de Janeiro (UFRRJ) to promote measures to mitigate land degradation caused by agricultural production systems
+*	Conducted statistical analysis, including multivariate regression analysis, principal component analysis, cluster analysis, and Procrustes analysis, on ecological and agricultural data related to Brazil’s environmental hotspots 
+*	Led technical trainings and lectures in Bayesian analysis applied to ecological and agricultural research 
+
+
+Education
+--------------------
+**Ph.D. IN AGRONOMY, CONCENTRATION IN SOIL SCIENCE (2012 – 2015)**
+
+Federal Rural University of Rio de Janeiro, 
+Seropédica, Brazil
+
+Title: **_Uses of the Procrustean statistical approach in soil ecology: a case of study involving an integrated agroecosystem in Brazilian savannah_**	
+
+Supervisor: Ricardo Luis Louro Berbara
+
+
+**M.S. IN AGRONOMY, CONCENTRATION IN SOIL SCIENCE (2010 – 2012 )**, 
+Federal Rural University of Rio de Janeiro, 
+Seropédica, Brazil
+
+Title: **_Linking soil, plant and environment in reclaimed soils after mining activity within Amazonian forest_** 
+
+Supervisor: Ricardo Luis Louro Berbara
+
+
+Skills
+------
+* English    (work level)
+*	Measurement, interpretation and report of chemical, physical and biological soil   management indicators
+*	Fertilizers use efficiency
+*	Green manure usage
+*	Integration of crop, livestock and forest as sustainable alternative
+*	Statistical tools, including R 
+*	Data cleaning and wrangling
+*	Statistical analysis
