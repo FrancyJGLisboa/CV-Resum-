@@ -62,8 +62,9 @@ Skills
 * English    (work level)
 *	Measurement, interpretation and report of chemical, physical and biological soil   management indicators
 *	Fertilizers use efficiency
+* Use of R in remote sensing
 *	Green manure usage
-*	Integration of crop, livestock and forest as sustainable alternative
+*	Integration of crop, livestock and forest as sustainable alternative for agriculture
 *	Statistical tools, including R 
 *	Data cleaning and wrangling
 *	Statistical analysis
